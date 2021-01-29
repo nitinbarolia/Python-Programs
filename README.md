@@ -1,13 +1,13 @@
 # Python-MiniPrograms(for Fun2Learn)
 
-### Porgram 1 -
+### Program 1 -
  Audio-book ---> A program which can read any pdf file.
 
-### Porgram 2- 
+### Program 2- 
  Talking friend ---> Added a program which can make python talk.
 
-### Porgram 3- 
+### Program 3- 
  Convert any image into ascii art.
  
- ### Porgram 4-
-  Code for converting phrase into Acronyms.
+### Program 4-
+ Code for converting phrase into Acronyms.
