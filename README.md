@@ -14,3 +14,6 @@
  
 ### Program 5 -
  Rock Paper Scissors game
+ 
+### Program 6 -
+ BMI calculator program
