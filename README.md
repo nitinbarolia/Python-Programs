@@ -17,3 +17,7 @@
  
 ### Program 6 -
  BMI calculator program
+
+### Program 7 -
+ Digital Clock
+
